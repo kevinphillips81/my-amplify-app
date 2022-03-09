@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactapp-dev-190227-authRole",
+      "UnauthRoleArn": "arn:aws:iam::865282089511:role/amplify-amplifyreactapp-dev-190227-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::865282089511:role/amplify-amplifyreactapp-dev-190227-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyreactapp-dev-190227-deployment",
+      "UnauthRoleName": "amplify-amplifyreactapp-dev-190227-unauthRole",
+      "StackName": "amplify-amplifyreactapp-dev-190227",
+      "StackId": "arn:aws:cloudformation:us-east-1:865282089511:stack/amplify-amplifyreactapp-dev-190227/792a43f0-9fdb-11ec-87ae-0acbef15deb5",
+      "AmplifyAppId": "d1y71t1ptjuaj"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactapp00499fd4": {}
+      },
+      "function": {
+        "currencyFunction": {
+          "deploymentBucketName": "amplify-amplifyreactapp-dev-190227-deployment",
+          "s3Key": "amplify-builds/currencyFunction-3663447849554c4d6b78-build.zip"
+        }
+      }
+    }
+  }
+}
